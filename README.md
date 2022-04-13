@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giridhara-ch
 - 👀 I’m interested in Programming (using Python and Java) and system design for efficient and robust solutions
-- 🌱 I’m currently learning gRPC, GraphQL implementation in the microservice architechture
+- 🌱 I’m currently learning gRPC, GraphQL implementation in the microservice architecture
 - 💞️ I’m looking to collaborate on ...[you can always pull/fork from github]
 - 📫 How to reach me ...
 
